@@ -5,9 +5,7 @@
 
 # AnimeDrop
 </div>
-
-![Screenshot](images/screenshot_1.jpg)
-![Screenshot](images/screenshot_2.jpg)
+ <img src="./images/Screenshot_1.jpg" alt="AnimeDrop" width="200">
 
 ## ⚠️ Project Status: Under Active Development
 
