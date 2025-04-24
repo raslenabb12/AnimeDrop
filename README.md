@@ -34,7 +34,6 @@
 ##  Tech Stack
 
 - **Language:** Kotlin
-- **UI:** Android Jetpack (ViewBinding, RecyclerView)
 - **Image Loader:** Glide
 - **Date/Time:** `java.time` API
 - **Data Model:** Custom `AnimeCountdown` class
