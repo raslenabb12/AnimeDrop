@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/raslenabb12/AnimeDrop">
-    <img src="./images/app_icon.png" alt="AnimeDrop" width="200">
+    <img src="./images/app_icon.jpg" alt="AnimeDrop" width="200">
   </a>
 
 # AnimeDrop
@@ -32,7 +32,7 @@
 - Notifications before airing time
 - Sort/filter options
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Language:** Kotlin
 - **UI:** Android Jetpack (ViewBinding, RecyclerView)
@@ -41,7 +41,7 @@
 - **Data Model:** Custom `AnimeCountdown` class
 - **Architecture:** MVVM pattern (planned)
 
-## ⚙ Setup Instructions
+##  Setup Instructions
 
 1. Clone the repository  
    ```bash
