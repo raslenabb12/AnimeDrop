@@ -18,7 +18,7 @@
 ##  Features
 
 -  Live countdown timer for upcoming anime episodes
-- 🖼 Image loading with Glide
+-  Image loading with Glide
 -  Real-time updates for days, hours, minutes, and seconds
 -  Search anime by title
 -  Smooth UI using RecyclerView
@@ -41,12 +41,13 @@
 
 ##  Setup Instructions
 
-1. Clone the repository  
+1. Clone the repository
    ```bash
    git clone https://github.com/raslenabb12/AnimeDrop.git
-2.Open the project in Android Studio
-3.Let Gradle sync and download dependencies
-4.Connect an emulator or device and run the app
+
+3. Open the project in Android Studio
+4. Let Gradle sync and download dependencies
+5. Connect an emulator or device and run the app
 
 ## Contributing
 Contributions are welcome! If you'd like to fix bugs, suggest features, or improve documentation, feel free to open an issue or pull request.
