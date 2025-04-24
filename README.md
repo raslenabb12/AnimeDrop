@@ -20,7 +20,7 @@
 -  Live countdown timer for upcoming anime episodes
 -  Image loading with Glide
 -  Real-time updates for days, hours, minutes, and seconds
--  Search anime by title
+
 -  Smooth UI using RecyclerView
 
 ##  Planned Features
@@ -29,6 +29,7 @@
 - Detailed anime information page
 - Notifications before airing time
 - Sort/filter options
+- Search anime by title
 
 ##  Tech Stack
 
