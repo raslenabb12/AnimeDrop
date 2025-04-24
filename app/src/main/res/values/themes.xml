@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AnimeDrop" parent="Theme.Material3.Dark.NoActionBar">
+         <item name="colorPrimary">#10131e</item>
+        <item name="colorPrimaryVariant">#10131e</item>
+        <item name="colorOnPrimary">#10131e</item>
+    </style>
+
+    <style name="Theme.AnimeDrop" parent="Base.Theme.AnimeDrop" />
+</resources>
