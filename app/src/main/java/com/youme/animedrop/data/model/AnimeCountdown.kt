@@ -6,5 +6,6 @@ data class AnimeCountdown(
     val id: Int = 0,
     val title: String,
     val releaseDateTime: LocalDateTime,
-    val imageUrl: String?
+    val imageUrl: String?,
+    val broadcast_time:String?=null
 )

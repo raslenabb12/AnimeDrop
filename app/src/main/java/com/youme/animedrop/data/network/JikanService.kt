@@ -9,9 +9,12 @@ data class AnimeResponse(
 data class AnimeData(
     val title: String,
     val images: ImageWrapper,
-    val aired: Aired
+    val aired: Aired,
+    val broadcast:Broadcast?=null
 )
-
+data class Broadcast(
+    val time :String?=null
+)
 data class ImageWrapper(
     val jpg: ImageUrl
 )
@@ -23,8 +26,3 @@ data class ImageUrl(
 data class Aired(
     val from: String?
 )
-
-interface JikanService {
-    @GET("seasons/upcoming")
-    fun getSeasonalAnime(): Call<AnimeResponse>
-}
