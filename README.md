@@ -35,7 +35,7 @@
 
 - **Language:** Kotlin
 - **Image Loader:** Glide
-- **Date/Time:** `java.time` API
+- **Date/Time:** `java.time` 
 - **Data Model:** Custom `AnimeCountdown` class
 - **Architecture:** MVVM pattern (planned)
 
