@@ -1,6 +1,4 @@
 package com.youme.animedrop.data.network
-import retrofit2.http.GET
-import retrofit2.Call
 
 data class AnimeResponse(
     val data: List<AnimeData>
