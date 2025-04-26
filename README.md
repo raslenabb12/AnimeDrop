@@ -5,7 +5,7 @@
 
 # AnimeDrop
 </div>
- <img src="./images/Screenshot_1.jpg" alt="AnimeDrop" width="200">
+ <img src="./images/t_gif_1.gif" alt="AnimeDrop" width="200">
 
 ## ⚠️ Project Status: Under Active Development
 
