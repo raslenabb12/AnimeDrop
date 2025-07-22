@@ -13,7 +13,7 @@
 
 ##  Overview
 
-**AnimeDrop** is an Android application that allows users to browse and get live countdowns for upcoming anime releases. It is built using modern Android development tools and practices.
+**AnimeDrop** is an Android application that allows users to browse and get live countdowns for upcoming anime releases using Jikan API. It is built using modern Android development tools and practices.
 
 ##  Features
 
